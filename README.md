@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=2F81F7&center=true&vCenter=true&width=780&lines=Oluwaseyori+Oshodi" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=oluwaseyori&style=for-the-badge&color=0e75b6)](https://github.com/oluwaseyori)
 [![Followers](https://img.shields.io/github/followers/oluwaseyori?style=for-the-badge&label=Followers)](https://github.com/oluwaseyori?tab=followers)
 [![Stars](https://img.shields.io/github/stars/oluwaseyori?affiliations=OWNER&style=for-the-badge&label=Repo%20Stars)](https://github.com/oluwaseyori?tab=repositories)
 
