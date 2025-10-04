@@ -84,7 +84,7 @@ Practical exploration of contact acquisition workflows and data flow.
 
 **Seyori Telegram Bot + WebApp**  
 Multi-purpose Telegram bot with a companion WebApp.  
-• Bot: **[Seyori Telegram Bot](https://t.me/seyoritgbot)** &nbsp;• WebApp: **[Seyori WebApp](http://t.me/seyoritgbot/seyoris_tg_bot_webapp)**
+• Bot: **[Seyori's Telegram Bot](https://t.me/seyoritgbot)** &nbsp;• WebApp: **[Bot's WebApp](http://t.me/seyoritgbot/seyoris_tg_bot_webapp)**
 
 **GitCloner Telegram Bot**  
 Clone repositories, fetch releases, and retrieve repo metadata via GitHub API—from Telegram.  
